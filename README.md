@@ -1,2 +1,2 @@
-# Tronxygauner
-Deutschsprachiges Repo der Tronxygauner (3D Drucker)
+# Deutschsprachiges Repo der Tronxygauner (3D Drucker)
+
